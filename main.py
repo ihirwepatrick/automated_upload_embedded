@@ -4,8 +4,8 @@ import shutil
 import subprocess
 
 # Define the paths
-camera_folder = "path/to/camera/folder"  # Replace with the folder where the camera saves pictures
-uploaded_folder = "path/to/uploaded/folder"  # Replace with the folder to store uploaded pictures
+camera_folder = "./camera"  # Replace with the folder where the camera saves pictures
+uploaded_folder = "./uploads"  # Replace with the folder to store uploaded pictures
 upload_url = "https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php"
 
 # Ensure the uploaded folder exists
