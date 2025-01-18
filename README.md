@@ -44,7 +44,7 @@ This project captures images using a webcam whenever an incorrect password attem
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo-url/capture-upload.git
+   git clone https://github.com/ihirwepatrick/automated_upload_embedded.git
    ```
 2. **Install Dependencies**:
    - Make sure Python 3.x is installed.
@@ -88,8 +88,7 @@ This project captures images using a webcam whenever an incorrect password attem
 
 ## 💻 **Contributors**
 
-- **[Your Name]** ✨ - Developer  
-- **[Contributor 2]** 💡 - Idea/Testing  
+- **Patrick Ihirwe** ✨ - Developer  
 
 ---
 
